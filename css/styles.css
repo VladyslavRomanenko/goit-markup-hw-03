@@ -363,6 +363,10 @@ address {
 .portfolio-list-item {
   width: 360px;
   height: 420px;
+  /* border: 1px solid var(--header-shadow-color); */
+}
+
+.portfolio-cards-border {
   border: 1px solid var(--header-shadow-color);
 }
 
