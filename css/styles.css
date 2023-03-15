@@ -67,7 +67,7 @@ address {
 }
 
 .container {
-  width: 1158px;
+  max-width: 1158px;
   margin-left: auto;
   margin-right: auto;
   padding-right: 15px;
@@ -310,15 +310,13 @@ address {
 .page-footer {
   height: 312px;
   background-color: var(--dark-color);
-  display: flex;
 }
 
 .footer-container {
+  padding-top: 100px;
   width: 264px;
-  height: 100%;
   display: flex;
   flex-direction: column;
-  justify-content: center;
 }
 
 .title-description-light {
