@@ -310,10 +310,11 @@ address {
 .page-footer {
   height: 312px;
   background-color: var(--dark-color);
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .footer-container {
-  padding-top: 100px;
   width: 264px;
   display: flex;
   flex-direction: column;
