@@ -208,6 +208,8 @@ address {
 
 /* ===================== HERO ==================== */
 .hero {
+  padding-top: 188px;
+  padding-bottom: 292px;
   height: 600px;
   background-color: var(--dark-color);
   display: flex;
@@ -221,7 +223,6 @@ address {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: auto;
 }
 
 .hero-title {
